@@ -1,3 +1,3 @@
 package com.drafthj.study.scala.caseClass
 
-case class Sum(L: Tree, R: Tree) extends Tree
+case class Sum(l: Tree, r: Tree) extends Tree
