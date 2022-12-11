@@ -1,4 +1,4 @@
-package com.drafthj.study.scala
+package com.drafthj.study.scala.forJava
 
 class Complex(real: Double, imaginary: Double) {
   def re() = real
